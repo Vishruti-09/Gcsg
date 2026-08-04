@@ -533,7 +533,7 @@ The gesture classification is also based on a predefined set of five gestures ra
 
 
 ```
-
+Added in the images folder.
 ```
 
 
