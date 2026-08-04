@@ -531,10 +531,13 @@ The gesture classification is also based on a predefined set of five gestures ra
 ## Screenshots
 
 
+<img width="1600" height="686" alt="GCSG 3" src="https://github.com/user-attachments/assets/82dd43ac-3a43-4db7-b107-0251d9e506d3" />
+<img width="1600" height="900" alt="GCSG 2" src="https://github.com/user-attachments/assets/9487b8f8-9d89-45d4-9bc4-fc73c8e30599" />
+<img width="1024" height="576" alt="GCSG 1" src="https://github.com/user-attachments/assets/c4b44591-4e5b-49dd-ab61-2c8dd2741fe9" />
+<img width="473" height="190" alt="prop" src="https://github.com/user-attachments/assets/716937ed-a69d-4293-b0a6-90d668dda8c1" />
+<img width="644" height="446" alt="uml" src="https://github.com/user-attachments/assets/4303a5ee-7c5e-4a87-94c8-13956e330c83" />
 
-```
-Added in the images folder.
-```
+
 
 
 ## Requirements
