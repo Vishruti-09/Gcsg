@@ -63,7 +63,6 @@ Gesture-Control-Snake-Game/
 └── README.md
 ```
 
-> The exact directory and file names can be adjusted according to the final organization of the project.
 
 ---
 
